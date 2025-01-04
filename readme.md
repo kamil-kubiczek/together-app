@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/279e3ee5-6931-479d-ba7b-9caf18526a2f)
+
+
 ### About project
 
 This project is example of fullstack web app based on BaSS - Supabase.
