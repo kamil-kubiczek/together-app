@@ -6,6 +6,8 @@
 This project is example of fullstack web app based on BaSS - Supabase.
 App allows to connect multiple people in form of posts available to everyone.
 
+Status: 🟡WIP
+
 #### Quick features summary:
 
 -  Register
